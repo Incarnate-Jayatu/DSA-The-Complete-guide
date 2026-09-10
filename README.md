@@ -9,7 +9,7 @@ A complete collection of **Data Structures & Algorithms (DSA)** problem-solving 
 🌐 Live Website
 
 Explore the interactive website here:
-🔗 https://dsa-pattern-and-tchniques.vercel.app/
+🔗 https://dsa-the-complete-guide.vercel.app/
 
 ---
 
